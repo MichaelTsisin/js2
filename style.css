@@ -1,0 +1,21 @@
+a:link {
+    background-color: rgb(172, 44, 51);
+    text-align:center;
+    color:black;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: rgb(130, 185, 70);
+}
+body {
+    background-color:rgb(190, 141, 77)
+}
+h1{
+    color: rgb(59, 49, 164);
+}
+img{
+    width: 600px;
+    height: 400px;
+}
